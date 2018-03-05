@@ -12,6 +12,8 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        print("the second modify!")
         // Do any additional setup after loading the view, typically from a nib.
     }
 
